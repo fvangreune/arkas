@@ -32,8 +32,8 @@
                     "title4": "<TextStyle.Yellow>PvP Rules</>",
                     "text1": "<TextStyle.Orange>This text goes into the top left box</>",
                     "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-                    "text3": "Raiding Friday 19:00 to Sunday 17:00 (GMT+2)",
-                    "text4": "1.Fobs must be cleared if inactive\n2.NO meshed structures or turrets\n3.No floating bases or floating turret towers\n4.Platform dinos may not be fully concealed on all side\n5.No placing structures on top of your or another's player model making them completely concealed, immobilized or invulnerable",
+                    "text3": "1.Raiding Friday 19:00 to Sunday 17:00 (GMT+2)",
+                    "text4": "1.Fobs must be cleared if inactive\n2.NO meshed structures or turrets\n3.No floating bases or floating turret towers\n4.Platform dinos may not be fully concealed on all side\n5.No placing structures on top of your or another's player model making them invulnerable",
                     "imageurl": "https://i.imgur.com/NNyABg2.png"
                 }
             }
