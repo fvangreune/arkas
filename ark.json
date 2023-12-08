@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
           "title1": "Welcome to [ZA] Working Class Hero 10x",
-          "text1": "Please join our Discord community.\n\nFull Server rules is available on Discord\n\n \n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Raiding from Friday 19:00 to Sunday 15:00 South African Time</></>\n<TextStyle.Red><TextStyle.Red>Server Maintenance and Restart 4:00-5:00 Daily</></>,
+          "text1": "Please join our Discord community.\n\nFull Server rules is available on Discord\n\n \n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Raiding from Friday 19:00 to Sunday 15:00 South African Time</></>\n<TextStyle.Red><TextStyle.Red>Server Maintenance and Restart 4:00-5:00 Daily</></>",
           "imageurl": "https://i.imgur.com/NNyABg2.png"
         }
       },
