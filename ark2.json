@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/NNyABg2.png",
+            "IconURL":  "https://i.imgur.com/OZ6xOjY.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -19,30 +19,6 @@
                     "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
                     "title1": "Welcome to [ZA] Working Class Hero 10x Server",
                     "text1": "Please join our Discord community for a full list of rules.\n\nPvP Times 19:00 Friday - 17:00 Sunday (South African Time)\n\n",
-                    "imageurl": "https://i.imgur.com/NNyABg2.png"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 2,
-                    "buttontext": "2 Box layout",
-                    "title1": "Left title",
-                    "title2": "Right title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the right box",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 3,
-                    "buttontext": "3 Box layout",
-                    "title1": "Left title",
-                    "title2": "Top right title",
-                    "title3": "Bottom left title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the top right box",
-                    "text3": "This text goes into the bottom right box",
                     "imageurl": "https://i.imgur.com/NNyABg2.png"
                 }
             },
