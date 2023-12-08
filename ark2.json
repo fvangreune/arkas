@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
                     "title1": "Welcome to [ZA] Working Class Hero 10x Server",
-                    "text1": "Please join our Discord community for a full list of rules.\n\nPvP Times 19:00 Friday - 17:00 Sunday (South African Time)\n\n",
+                    "text1": "Please join our Discord community for a full list of rules (Link below)\n\n\n\nPvP Times 19:00 Friday - 17:00 Sunday (South African Time)\n\n",
                     "imageurl": "https://i.imgur.com/NNyABg2.png"
                 }
             },
@@ -26,10 +26,10 @@
                 "tab4": {
                     "layout": 4,
                     "buttontext": "Rules",
-                    "title1": "Top left title",
-                    "title2": "<TextStyle.Green>Top right title</>",
-                    "title3": "<TextStyle.Blue>bottom left title</>",
-                    "title4": "<TextStyle.Yellow>bottom right title</>",
+                    "title1": "Game Rules",
+                    "title2": "<TextStyle.Green>Building Rules</>",
+                    "title3": "<TextStyle.Blue>PvP Times</>",
+                    "title4": "<TextStyle.Yellow>PvP Rules</>",
                     "text1": "<TextStyle.Orange>This text goes into the top left box</>",
                     "text2": "<TextStyle.Violet>This text goes into the top right box</>",
                     "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
