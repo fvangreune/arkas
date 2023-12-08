@@ -30,8 +30,8 @@
                     "title2": "<TextStyle.Green>Building Rules</>",
                     "title3": "<TextStyle.Blue>PvP Times</>",
                     "title4": "<TextStyle.Yellow>PvP Rules</>",
-                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-                    "text2": "<TextStyle.Violet>This text goes into the top right box</>",
+                    "text1": "",
+                    "text2": "Two bases per tribe per map\nNo excessive spam outside of your base\nNo open-world structures that are not related to your base\nNo building in glitched areas where you have to do a bug to get in\n",
                     "text3": "Raiding Friday 19:00 to Sunday 17:00 (GMT+2)",
                     "text4": "Fobs must be cleared if inactive\nNO meshed structures or turrets\nNo floating bases or floating turret towers\nPlatform dinos may not be fully concealed on all side\nNo placing structures on top of your or another's player model making them invulnerable",
                     "imageurl": "https://i.imgur.com/NNyABg2.png"
